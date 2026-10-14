@@ -1,7 +1,7 @@
 {
-  "version": "1.1.7",
-  "url": "https://github.com/MZAW121/non1-studio/releases/download/v1.1.7/NO.NAME.Studio.exe",
-  "sha256": "fe06bf4d603f8254ec7413376f37f977f8c2f2489a16fb190857e55e6069fa95",
-  "notes": "الإصدار 1.1.7\n\n• قسم Sounds — إضافة قسم SOUND MAKER كامل: صناعة صوت سلاح من الصفر بدون أي ملفات صوتية.\n   - أطقم جاهزة: Heavy 50Cal · MK2 Pistol · Headshot Collision · Reload · Dual.\n   - متحكمات: CRACK · BODY · BODY FREQ · SUB-BASS · ECHO · TAIL · PITCH · VOLUME.\n   - GENERATE + PLAY + RESET مع عرض الموجة وقراءة مباشرة: 0.86s · 44,100 Hz · peak 0.90.\n   - النوع: Gunshot / Reload.\n   - استخدم ملفك الجاهز عبر Browse / Paste بدلاً من التوليد.\n   - Save WAV إلى Desktop\\NON1_Generated أو Add to Multi-Track للدمج في المحرر المتعدد.\n   - Replace in sounds folder: يكتب الصوت فوق أصوات السلاح المختار (مع نسخة احتياطية تلقائية NON1_BACKUP).\n\n• إصلاح: تصحيح حقل الإصدار في الإعدادات.\n",
+  "version": "1.1.8",
+  "url": "https://github.com/MZAW121/non1-studio/releases/download/v1.1.8/NO.NAME.Studio.exe",
+  "sha256": "92394d1638f55b21fc1105dbc445577f312525d59e972c518000c1751bf344c2",
+  "notes": "الإصدار 1.1.8\n\n• إصلاح مشكلة الحظر عند العميل — رسالة \"An Application Control policy has blocked this file\":\n   - السبب: Smart App Control في Windows 11 يمنع الملفات التي وصلت \"من الإنترنت\" (Mark-of-the-Web).\n   - الأداة الآن تزيل هذه العلامة عن ملفها وعن اختصار سطح المكتب / شريط المهام تلقائيًا عند كل تشغيل.\n   - قسم جديد في الإعدادات: Launch protection — يعرض حالة التوقيع وحالة Smart App Control\n     وعدد الملفات المعلّمة، مع زر Fix لإزالة العلامة بضغطة واحدة.\n   - التحديث التلقائي يزيل العلامة عن الملف الجديد قبل تشغيله، حتى لا يُحظر بعد التحديث.\n\n• ملف تعليمات جاهز للإرسال للعميل: تعليمات-للعميل.txt\n\n• تحسين: بطاقات Runtime و Launch protection تُحدَّث الآن تلقائيًا عند فتح الإعدادات.\n",
   "mandatory": false
 }
