@@ -1,7 +1,7 @@
 {
-  "version": "1.1.5",
-  "url": "https://github.com/MZAW121/non1-studio/releases/download/v1.1.5/NO.NAME.Studio.exe",
-  "sha256": "a81b9483fc3b1053bdf94184a8e7bcd3f4c3ea5451fc0d2816fb1af98425cb9e",
-  "notes": "إصلاح خطأ الإقلاع + تنظيف تلقائي لمجلدات التشغيل",
+  "version": "1.1.6",
+  "url": "https://github.com/MZAW121/non1-studio/releases/download/v1.1.6/NO.NAME.Studio.exe",
+  "sha256": "952053bd4cb89708d3ac0059038bc61993520edca2bc6d0fa4691fa4b047a84d",
+  "notes": "مصدر بديل للترقية (بدون تأخير) + تنظيف تلقائي لمجلدات التشغيل + حماية من خطأ الإقلاع",
   "mandatory": false
 }
