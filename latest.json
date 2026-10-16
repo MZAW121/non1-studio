@@ -2,6 +2,6 @@
     "version":  "1.1.13",
     "url":  "https://github.com/MZAW121/non1-studio/releases/download/v1.1.13/NO.NAME.Studio.exe",
     "sha256":  "3345ffed1da3ca0c21e88215cced3dc8d9f64f836e1de11eb1352973757d17ec",
-    "notes":  "تحديث 1.1.13`n`n- إصلاح مشاكل الساوندات وتجهيز WEAPONS_PLAYER.rpf + RESIDENT.rpf.",
+    "notes":  "تحديث 1.1.13\r\n\r\n- إصلاح مشاكل الساوندات وتجهيز WEAPONS_PLAYER.rpf + RESIDENT.rpf.",
     "mandatory":  false
 }
