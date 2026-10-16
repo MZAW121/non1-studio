@@ -1,7 +1,7 @@
 {
-  "version": "1.1.12",
-  "url": "https://github.com/MZAW121/non1-studio/releases/download/v1.1.12/NO.NAME.Studio.exe",
-  "sha256": "533cd6b8b3e22f574c72cbce1397403de3d98b2cf441fd54c85bad1e1fb02cfa",
-  "notes": "الإصدار 1.1.12\n\n• تحسينات داخلية في الأداة (تتبّع حالة التشغيل لدعم أسرع).\n\n• إصلاح صفحة Sounds (بناء ملفات اللعبة) — محفوظ من 1.1.11:\n  مجلد الإخراج يتعبّى تلقائيًا، وما عاد البناء يسكت بدون ملف.\n\n• باقي الصفحات والأدوات كما هي بدون أي تغيير.\n",
-  "mandatory": false
+    "version":  "1.1.13",
+    "url":  "https://github.com/MZAW121/non1-studio/releases/download/v1.1.13/NO.NAME.Studio.exe",
+    "sha256":  "3345ffed1da3ca0c21e88215cced3dc8d9f64f836e1de11eb1352973757d17ec",
+    "notes":  "تحديث 1.1.13`n`n- إصلاح مشاكل الساوندات وتجهيز WEAPONS_PLAYER.rpf + RESIDENT.rpf.",
+    "mandatory":  false
 }
