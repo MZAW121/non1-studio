@@ -1,7 +1,7 @@
 {
-    "version": "1.1.14",
-    "url": "https://github.com/MZAW121/non1-studio/releases/download/v1.1.14/NO.NAME.Studio.exe",
-    "sha256": "c9c5cfe2912a5dcea933b9c093d528b0b8dcfec94402472192d931514fffa99b",
-    "notes": "إصدار 1.1.14\r\n\r\n- إصلاح كشف NVENC: التشفير السريع عبر كرت الشاشة يعمل الآن (كان معطلاً على كروت RTX 40).\r\n- تصدير الفيديو أصبح أسرع بكثير.\r\n",
+    "version": "1.1.15",
+    "url": "https://github.com/MZAW121/non1-studio/releases/download/v1.1.15/NO.NAME.Studio.exe",
+    "sha256": "ba084d6facaede107ca87ebe38ece20d2cd3eb97f6a62915bd5a18f937b7ed3f",
+    "notes": "إصدار 1.1.15\r\n\r\n- إصلاح مهم: التحديث التلقائي كان يفشل بعد استبدال الملف (رسالة \"invalid originating onefile parent process (PID not found)\") وتُرجع النسخة القديمة.\r\n- الآن التطبيق يفتح بشكل طبيعي بعد التحديث على كل الأجهزة.\r\n- يحتوي أيضاً على إصلاح كشف NVENC الذي جاء في 1.1.14 (تصدير أسرع عبر كرت الشاشة).\r\n",
     "mandatory": false
 }
