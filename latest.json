@@ -1,7 +1,7 @@
 {
-    "version": "1.1.19",
-    "url": "https://github.com/MZAW121/non1-studio/releases/download/v1.1.19/NO.NAME.Studio.exe",
-    "sha256": "efa64636f9a8a5644c21574ec34448d21b6f1772ced2ac18f7620d57ac266f28",
-    "notes": "إصدار 1.1.19\r\n\r\n- 🎨 واجهة جديدة كاملة: المظهر الجديد (أسود + أزرق) بخط Sora، بطاقات زجاجية\r\n  بحدود متدرجة، ووهج خفيف — مطبّق على كل الصفحات.\r\n- 🖼️ الشعار داخل الأداة والأيقونات كما هي (ما تغيّرت).\r\n- ⚡ الوظائف كلها كما هي ١٠٠٪: Sounds، Citizen، BloodFX، RPF Explorer، 60 FPS.\r\n- 🔐 الحماية كما هي من 1.1.18 (مفاتيح Ed25519 موقّعة) — كل مفاتيحك شغّالة.\r\n\r\n💙 للتثبيت بدون شاشة زرقاء: حمّل ملف NO.NAME.Studio.zip، ثم\r\n   كليك يمين على الـ ZIP -> Properties -> Unblock -> OK، ثم فك الضغط وشغّل الأداة.\r\n",
+    "version": "1.1.20",
+    "url": "https://github.com/MZAW121/non1-studio/releases/download/v1.1.20/NO.NAME.Studio.exe",
+    "sha256": "50ec1f3a8d27990118e4bb42f39c51f27df69ea30bd8b455f7bf8f6b21022a8e",
+    "notes": "إصدار 1.1.20\r\n\r\n- 💬 زر Open Discord (في الرئيسية وفي صفحة Discord) صار يفتح سيرفرك فعلياً\r\n  في المتصفح: https://discord.gg/stbJ6gpb6 (وزر Copy link ينسخ الرابط).\r\n- 🔐 تقوية الحماية: أُغلقت ثغرة مفاتيح الفحص المدمجة، وأصبح تحليل المفاتيح\r\n  محصّناً ضد أي تلاعب بالفواصل، مع حدّ أقصى للطول وحماية من رجوع ساعة الجهاز.\r\n- ⚡ الوظائف كلها كما هي ١٠٠٪، والشعار والأيقونات كما هي.\r\n- 🎨 نفس الواجهة الجديدة (أسود + أزرق، خط Sora).\r\n\r\n💙 للتثبيت بدون شاشة زرقاء: حمّل ملف NO.NAME.Studio.zip، ثم\r\n   كليك يمين على الـ ZIP -> Properties -> Unblock -> OK، ثم فك الضغط وشغّل الأداة.\r\n",
     "mandatory": false
 }
